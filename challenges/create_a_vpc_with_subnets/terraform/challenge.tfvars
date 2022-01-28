@@ -1,7 +1,7 @@
 # This file contains your variable values
 company_name = "acme-corp"
 
-cidr_block = "10.22.0.0/8"
+cidr_block = "10.22.0.0/16"
 
 subnet_blocks = [
   "10.22.1.0/24",

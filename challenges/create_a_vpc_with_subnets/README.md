@@ -25,3 +25,9 @@ Estimated Costs: $ (less than $1)
 ### Destroy
 
 Do not forget to destroy your resources when the challenge is completed.
+
+### My Solution
+
+I wasn't sure how much of the challenge I was allowed to edit but the CIDR of 10.22.0.0/8 had to be edited to 10.22.0.0/16 because of size restrictions AWS places.
+
+I liked this challenge but had done something similiar before where I had created each individual piece and put them together.  For this one I wanted to try and utilize the VPC module that AWS provides.

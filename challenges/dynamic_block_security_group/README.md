@@ -21,3 +21,7 @@ Estimated Costs: Free.
 ### Destroy
 
 Do not forget to destroy your resources when the challenge is completed.
+
+### Solution
+
+I hadn't used dynamic blocks before so this was fun to learn.  I also learned how to create object maps in the var file.  

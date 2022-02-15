@@ -1,7 +1,7 @@
 # This file is where you will enter your variable values
 
-security_group_name = ""
-vpc_id = ""
+security_group_name = "TestGroup"
+vpc_id = "aws_vpc"
 ingress_rules = [
     {
         port        = 443

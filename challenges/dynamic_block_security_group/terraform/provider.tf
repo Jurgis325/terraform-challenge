@@ -11,6 +11,6 @@ terraform {
 # Configure the AWS Provider
 # The default is to use the profile option, but you can use whatever you choose.
 provider "aws" {
-  region = "us-east-1" # Fill with your chosen region
-  profile = "my-profile-name" # Edit with your local AWS profile
+  region = "us-west-2" # Fill with your chosen region
+  profile = "default" # Edit with your local AWS profile
 }

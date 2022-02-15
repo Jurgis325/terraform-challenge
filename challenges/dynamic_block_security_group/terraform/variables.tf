@@ -11,6 +11,10 @@ variable "vpc_id" {
 }
 
 variable "ingress_rules" {
-  description = "The id of the VPC"
-  type        = list(map)
+  type = list( object({
+    port = number
+    description = string
+    protocol = string
+    cidr_blocks = list(string)
+  }))
 }

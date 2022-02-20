@@ -10,5 +10,5 @@ variable "parameter_store_names" {
 variable "parameter_store_value_default" {
   description = "The default value for parameter store items"
   type        = string
-  default     = " "
+  default     = "test"
 }

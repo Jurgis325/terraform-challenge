@@ -22,7 +22,7 @@ Estimated Costs: $ (less than $1)
 
 Do not forget to destroy your resources when the challenge is completed.
 
-### Destroy
+### Solution
 
 Not 100% sure if I completed the objective here.  The request was for 10 parameters to be uploaded using the for_each syntax but was only given 6.  I added my own and ended up with 10 parameters using the for_each loop so...technically correct?
 
